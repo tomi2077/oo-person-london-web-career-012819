@@ -1,4 +1,5 @@
 class Person
+<<<<<<< HEAD
 
   attr_accessor :name
 
@@ -54,3 +55,15 @@ class Person
   end
 
 end
+=======
+  def initialize(name)
+    bank_account = 25
+  end
+  
+  attr_accessor :money
+  
+
+  
+  def get_paid
+    
+>>>>>>> 2d2e1317f89701c2b4c09683793a9cf9a1691153
